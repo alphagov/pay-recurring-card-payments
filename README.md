@@ -1,7 +1,6 @@
-# pay-recurring-card-payments
+# Recurring card payments `BETA`
 
-## About this repository
-This is a place for service teams on GOV.UK Pay’s beta on Recurring Card Payments to find information and discuss topics regarding the beta. We set this up so that files and information can be stored or linked to from a central location that hopefully all teams will be able to access.
+This is a place for service teams on GOV.UK Pay’s beta on Recurring Card Payments to find information and discuss topics regarding the beta.
 
 We'll use this repository to publish things like:
 - Week notes
