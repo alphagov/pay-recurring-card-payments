@@ -3,8 +3,15 @@
 ## About this repository
 This is a place for service teams on GOV.UK Pay’s beta on Recurring Card Payments to find information and discuss topics regarding the beta. We set this up so that files and information can be stored or linked to from a central location that hopefully all teams will be able to access.
 
+We'll use this repository to publish things like:
+- Week notes
+- Draft technical documents
+- Draft API documentation
+- Requirements for services taking recurring payments
+- Any prototypes we design
+
 ## Contributing
-During beta we will be publishing information, such as expected front-end work or API specifications, in the [Issues](https://github.com/alphagov/pay-recurring-card-payments/issues) section. You will be able to view, comment and see comments by others.
+During beta we will be publishing information in the [Issues](https://github.com/alphagov/pay-recurring-card-payments/issues) section. You will be able to view, comment and see comments by others.
 
 ## Contact
 The GOV.UK Pay team will send group updates and workshop invites to a mailing list. This also allows beta partners to ask questions and for the questions and responses to be visible by all members. If you want to be included in this email group, please contact govuk-pay-chiffchaff@digital.cabinet-office.gov.uk. 
