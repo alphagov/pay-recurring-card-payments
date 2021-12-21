@@ -14,7 +14,7 @@ We'll use this repository to publish things like:
 During beta we will be publishing information in the [Issues](https://github.com/alphagov/pay-recurring-card-payments/issues) section. You will be able to view, comment and see comments by others.
 
 ## Contact
-The GOV.UK Pay team will send group updates and workshop invites to a mailing list. This also allows beta partners to ask questions and for the questions and responses to be visible by all members. If you want to be included in this email group, please contact govuk-pay-chiffchaff@digital.cabinet-office.gov.uk. 
+The GOV.UK Pay team will send group updates and workshop invites to a mailing list of beta partners. This also allows beta partners to ask questions and for the questions and responses to be visible by all members. If you want to be included in the mailing list, please contact govuk-pay-chiffchaff@digital.cabinet-office.gov.uk so we can add you to the group.
 
 ## Beta membership
 The teams involved in the beta are:
