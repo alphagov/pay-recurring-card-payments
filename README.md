@@ -1,35 +1,24 @@
-# Recurring card payments `BETA`
+# Recurring card payments
 
-This is a place for service teams on GOV.UK Pay’s beta on Recurring Card Payments to find information and discuss topics regarding the beta.
+> :warning: The information in this repository represents a snapshot of features under development. Please see [https://docs.payments.service.gov.uk/](https://docs.payments.service.gov.uk/) for up to date guidance.
 
-We'll use this repository to publish things like:
-- Week notes
-- Draft technical documents
-- Draft API documentation
-- Requirements for services taking recurring payments
-- Any prototypes we design
+## Getting started
 
-## Contributing
-During beta we will be publishing information in the [Issues](https://github.com/alphagov/pay-recurring-card-payments/issues) section. You will be able to view, comment and see comments by others.
+To start building a recurring card payments integration with your service, you can [contact support](https://www.payments.service.gov.uk/support) to enable the features for your existing Sandbox account.
 
-## Contact
-The GOV.UK Pay team will send group updates and workshop invites to a mailing list of beta partners. This also allows beta partners to ask questions and for the questions and responses to be visible by all members. If you want to be included in the mailing list, please contact govuk-pay-chiffchaff@digital.cabinet-office.gov.uk so we can add you to the group.
+With recurring features enabled, you can start integrating with: 
+
+- [common recurring paying user journeys](./2022-07-13/taking-recurring-payments/Journeys.md)
+- [creating and setting up agreements for your users](./2022-07-13/taking-recurring-payments/Agreements.md)
+- [taking recurring payments](./2022-07-13/taking-recurring-payments/Payments.md) and [get notified about their results](./2022-07-13/webhooks/README.md)
+- [managing recurring payments in the admin tool](./2022-07-13/taking-recurring-payments/Management.md)
+
 
 ## Beta membership
 The teams involved in the beta are:
-- Department for Work and Pensions
-- Foreign, Commonwealth & Development Office
-- Environment Agency
-- Scottish Social Services Council / Care Inspectorate
-- Stoke Council
 
-Members of the GOV.UK Pay team involved in recurring payments:
-- Alex - Developer
-- Antonia - Interaction Designer
-- Crispin - User Researcher
-- Dom - Technical Architect
-- Gideon - Developer
-- Kay - Service Designer
-- Ruth - Product Manager
-- Sam - Delivery Manager
-- Steven - Developer
+* Department for Work and Pensions
+* Foreign, Commonwealth & Development Office
+* Environment Agency
+* Scottish Social Services Council / Care Inspectorate
+* Stoke Council
