@@ -188,9 +188,10 @@ Cancelled agreements can only be used to take payments if the paying user provid
 
 | Query parameter | Description |
 | ------------- | ------------- |
-| `reference` | Human readable description of the agreement. This is shown to your user on the payment pages and to your staff on the GOV.UK Pay admin tool. |
-| `status` | The reference you wish to associate with the agreement. The reference does not need to be unique. |
-| `page` | The reference for the paying user you wish to associate with the agreement. Multiple agreements can be for the same user reference. |
+| `reference` | The agreement reference, parameter must be a full match. |
+| `status` | The agreement status, one 'created', 'active', 'cancelled' |
+| `page` | The page of results to return. Defaults to `1`. |
+| `display_size` | How many results to return per page. Defaults to `500`. |
 
 ### Example response
 
@@ -211,4 +212,4 @@ Cancelled agreements can only be used to take payments if the paying user provid
     }
   ]
 }
-``` 
+```
