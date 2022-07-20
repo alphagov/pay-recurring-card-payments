@@ -1,10 +1,16 @@
 # Recurring card payments
 
-> :warning: The information in this repository represents a snapshot of features under development. Please see [https://docs.payments.service.gov.uk/](https://docs.payments.service.gov.uk/) for up to date guidance.
+> :warning: This feature and guidance is part of a private beta so may be subject to change. For general help using Pay please refer to [Pay's documentation](https://docs.payments.service.gov.uk/) or [contact support](https://www.payments.service.gov.uk/support/) if you have questions.
+
+GOV.UK Pay is adding support for recurring card payments  (also known as automatic card payments). Public sector services will be able to set up agreements with their users so that they can repeatedly charge for services provided on an ongoing basis.
+
+Once a user gives permission, the amount can be automatically deducted on a prearranged schedule e.g daily, monthly, annually until a user chooses to end the agreement. 
+
+This space documents the conceptual model and API interface to allow your service to set up and start processing recurring payments with GOV.UK Pay. This will rely on tokenisation provided by the underlying PSP in use (currently Worldpay or Stripe) to securely store the card numbers on your behalf. Our team is here to support your service getting started.
 
 ## Getting started
 
-To start building a recurring card payments integration with your service, you can [contact support](https://www.payments.service.gov.uk/support) to enable the features for your existing Sandbox account.
+To start building a recurring card payments integration with your service, [contact support](https://www.payments.service.gov.uk/support/) to enable the features for your existing Sandbox account.
 
 With recurring features enabled, you can start integrating with: 
 
@@ -15,10 +21,12 @@ With recurring features enabled, you can start integrating with:
 
 
 ## Beta membership
-The teams involved in the beta are:
+The organisations taking part in this beta and adopting recurring payments are:
 
 * Department for Work and Pensions
 * Foreign, Commonwealth & Development Office
 * Environment Agency
 * Scottish Social Services Council / Care Inspectorate
 * Stoke Council
+
+If you are interested in joining the private beta and using recurring card payments [contact us](https://www.payments.service.gov.uk/support/).
