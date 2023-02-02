@@ -18,7 +18,7 @@ With recurring features enabled, you can start integrating with:
 - [creating and setting up agreements for your users](./2022-07-13/taking-recurring-payments/Agreements.md)
 - [taking recurring payments](./2022-07-13/taking-recurring-payments/Payments.md) and [get notified about their results](./2022-07-13/webhooks/README.md)
 - [managing recurring payments in the admin tool](./2022-07-13/taking-recurring-payments/Management.md)
-- [Roles and Responsibilities for RCP] (.2022-07-13/taking-recurring-payments/roles%20and%20responsbilities.md)
+- [Roles and Responsibilities for RCP] (https://github.com/alphagov/pay-recurring-card-payments/blob/df942b7a063c6c8ad1df256e8696325485576c8f/2022-07-13/taking-recurring-payments/roles%20and%20responsbilities.md))
 
 
 ## Beta membership
